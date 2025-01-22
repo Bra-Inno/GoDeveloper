@@ -13,3 +13,11 @@
 
 
 [Awesome FastAPI projects](https://kludex.github.io/awesome-fastapi-projects/)
+
+
+
+
+
+课程资源
+
+[依赖注入系统介绍和使用场景_高性能 FastAPI 框架入门精讲-慕课网](https://www.imooc.com/video/22997)
