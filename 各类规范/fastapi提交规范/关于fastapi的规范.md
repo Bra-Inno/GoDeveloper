@@ -155,3 +155,12 @@ HTTP状态码是服务器在响应客户端请求时返回的三位数字代码�
 [FastApi 最佳实践-中文版](https://hellowac.github.io/fastapi-best-practices-zh-cn/)
 
 [【Python】基于FastAPI的Restful规范实践](https://mp.weixin.qq.com/s?__biz=MzU3NDQ3MjI3Nw==&mid=2247484909&idx=1&sn=d516e4c8e55138118c8ae6f62833b20a&scene=21#wechat_redirect)
+
+
+
+
+
+用logging模块进行终端输出
+
+用一个大的config配置类进行配置管理，学习那个项目
+
